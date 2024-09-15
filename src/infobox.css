@@ -1,0 +1,9 @@
+.InfoBox{
+    align-items: center;
+    text-align: center;
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+}
